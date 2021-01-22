@@ -1,0 +1,29 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Megan Rest
+
+2. Which VPS & domain providers did you choose?
+vultr and namecheap
+
+3. What domain name did you register?
+megrest.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/restmegan/webDevelopment
+
+5. Which parts of this assignment did you have trouble with, if any?
+-attaching an ssh key to the vps (mainly because copy/paste between host computer and virtual machine wouldn't work for a bit)
+-configuring the files (I mistakenly inserted the code into the default file instead of creating a new file in sites-available)
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
